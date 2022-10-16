@@ -16,7 +16,7 @@ This project have  approximately 50 datasets and each one contains reviews of a 
 > * Dataset link: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 
 ## Results: 
-### Below are analysis process on table. It is often wise to review the columns on tables before running a complete analysis. The table result will give us an idea what we are working with. 
+#### Below are analysis process on tables. It is often wise to review the columns on tables before running a complete analysis. The table results will give us an idea what we are working with. 
 Customer Table
 
 ![Customer Table](Resources/customer_table.png)
