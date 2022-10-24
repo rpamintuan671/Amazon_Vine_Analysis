@@ -1,6 +1,5 @@
 # Amazon_Vine_Analysis
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
 
 The purpose of this project is to analyze written reviews by its members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. A company name SellBy pays Amazon to provide products to Amazon Vine members. These members are invitation only and given a product ship to them at no cost to provide insightful reviews that is honest and unbiased opinions.
 
